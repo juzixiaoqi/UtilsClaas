@@ -4,7 +4,7 @@ import java.net.URL;
 import java.util.Collection;
 import java.util.Iterator;
 /**
- * String工具类
+ * 这是String工具类
  * @author 郑亚齐
  *
  */
