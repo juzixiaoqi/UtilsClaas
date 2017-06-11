@@ -3,7 +3,11 @@ package com.zyq.comm;
 import java.net.URL;
 import java.util.Collection;
 import java.util.Iterator;
-
+/**
+ * String工具类
+ * @author 郑亚齐
+ *
+ */
 public class StringUtil {
 	//空格数 0-10
     private static final String[] padding = {"", " ", "  ", "   ", "    ", "     ", "      ", "       ", "        ", "         ", "          "};
