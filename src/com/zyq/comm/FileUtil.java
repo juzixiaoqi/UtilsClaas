@@ -2,7 +2,11 @@ package com.zyq.comm;
 
 import java.io.File;
 import java.io.IOException;
-
+/**
+ * 文件工具类
+ * @author 郑亚齐
+ *
+ */
 public class FileUtil {
 	private static File file=null;
 	//private static String path = ".\\郑亚齐\\Desktop\\a\\a.txt";//项目根目录

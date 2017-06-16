@@ -1,6 +1,5 @@
 package com.zyq.comm;
 
-import java.net.URL;
 import java.util.Collection;
 import java.util.Iterator;
 /**
